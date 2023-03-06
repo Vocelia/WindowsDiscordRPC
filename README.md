@@ -24,7 +24,7 @@
 
 ## Downloads
 
-Download from [releases](https://github.com/Glitcher85/WindowsDiscordRPC/releases).
+Download from [releases](https://github.com/Vocelia/WindowsDiscordRPC/releases).
 
 ## Supported Operating Systems
 
